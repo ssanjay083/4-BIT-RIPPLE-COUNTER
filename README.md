@@ -105,11 +105,13 @@ endmodule
 */
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
-![image](https://github.com/user-attachments/assets/7ff6f5b4-8cbc-4c31-b670-5422cdbdbc13)
+![image](https://github.com/user-attachments/assets/2d38ab89-9fa8-4b06-94f4-30e91ffdc58c)
+
 
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-![image](https://github.com/user-attachments/assets/1293c089-3034-428a-9242-dcabcc7a0d45)
+![image](https://github.com/user-attachments/assets/6e22d56d-9351-4a08-a08d-d6ba48576878)
+
 
 
 **RESULTS**
